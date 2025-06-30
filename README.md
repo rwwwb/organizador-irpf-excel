@@ -30,9 +30,6 @@ Ferramenta desenvolvida como parte do desafio prático da DIO para organizar inf
 
 Tudo isso em **uma única aba**, com seções bem destacadas.
 
-## 📷 Capturas de Tela
-
-Imagens disponíveis na pasta `/images` (opcional).
 
 ## 🚀 Tecnologias Usadas
 
